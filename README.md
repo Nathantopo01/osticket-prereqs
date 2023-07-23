@@ -64,19 +64,24 @@ Once it is done creating the virtual machine, navigate to it either through the 
 
 <br />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/2b5070f9-d1f0-47d0-badc-5bb51ea71d42)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here, you are going to click on the Virtual machine you just made and than grab the public ip so that we can connect to it with "remote desktop".
+(Your IP will most likely not be the same as mine but that is ok, just make sure you grab yours.)
 </p>
 <br />
 
 <br />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/bde1fa55-0145-4e38-837f-0989e692fd1b)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to your search bar in the bottom left of Windows and type in "Remote desktop connection" and run the program and insert your IP.
+Directly after this it will ask you for credentials, these are the generic credentials we made earlier so just use those to log in.
+Press yes on the next pop-up window.
 </p>
 <br />
 
