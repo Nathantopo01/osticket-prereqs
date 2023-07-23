@@ -216,6 +216,80 @@ Restart IIS.
 <br />
 
 <p>
+![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/f17da7ea-d853-4289-ac46-0f7aee0f813c)
+
+</p>
+<p>
+Inside of ISS, on the left bar, go to Sites, Default Web Site, osTicket, and than on the right, select Browse .80.
+</p>
+<br />
+<br />
+
+<p>
+![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/5ecef1a2-8861-4836-ad55-2967d9a7116b)
+
+</p>
+<p>
+Some extensions will still have an X on them, to fix them we need to enable them in IIS, go to IIS and under the osTicket folder, go to PHP Manager
+</p>
+<br />
+<br />
+
+<p>
+![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/de22c419-cfab-4250-81a9-b197a521e9db)
+
+</p>
+<p>
+Go to "Enable or Disable extension and enable "php_imap", "php_intl", and "php_opcache".
+</p>
+<br />
+<br />
+
+
+<p>
+Go back to the osTicket in the browser and refresh the page to see that the X are now checkmarks. (We will not be getting rid of all of the X)
+</p>
+<br />
+<br />
+
+<p>
+![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/f1f91883-c0b4-4c43-b8ea-d4f48cbd00d3)
+
+</p>
+<p>
+Navigate through files to get to "C:\inetpub\wwwroot\osTicket\include" and rename "ost-sampleconfig" to "ost-config".
+</p>
+<br />
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+<br />
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
