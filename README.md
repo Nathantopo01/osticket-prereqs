@@ -331,6 +331,8 @@ We just need to do some finishing touches, navigate to the folder "C:\inetpub\ww
   ![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/df2d7ac0-513a-4bec-8ab9-078774d98e6a)
 
 Then in "C:\inetpub\wwwroot\osTicket\include", set the permissions in ost-config.php to "read only". Press OK and you are now done with the initial installation!
+<p>
+To make sure the system works, you can go to "http://localhost/osTicket/" and login with the previously made login info you made to verify it.
   </p>
 </p>
 <br />
