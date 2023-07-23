@@ -263,10 +263,43 @@ Navigate through files to get to "C:\inetpub\wwwroot\osTicket\include" and renam
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Right click the file, go to properties, security, and than advanced and disable inheritence. Press to remove all inheritence.
+</p>
+<br />
+<br />
+
+<p>
+![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/d761a926-e4d8-4167-bf75-cfc61db0efd9)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Click on Principal, type "everyone" in the box, press ok, and then enable all of the boxes. (You can not enable "special permissions") Press ok ok and go back to the osTicket browser.
+</p>
+<br />
+<br />
+
+<p>
+![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/4533d8f1-ed58-4871-83d7-7c82026e02af)
+
+</p>
+<p>
+Helpdesk name does not amtter so ahve fun with it, you can make up an email as well just make sure to write it down like "nathan@helpdesk.com". Fill out and remember the rest of the information.
+</p>
+<br />
+<br />
+
+<p>
+Go back to the google drive to download and install "HeidiSQL". You will be installing everything and it does not need to go to a special folder so just click the next button for this one.
+</p>
+<br />
+<br />
+
+<p>
+![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/2217cb50-89cb-4266-8acc-52f44e42521f)
+
+</p>
+<p>
+With the new program open, click new and put in the username and password you put in when installing the SQL server.
 </p>
 <br />
 <br />
@@ -275,7 +308,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In the program, right click "Unnamed" and than "create new" "database", and name it "osTicket".
 </p>
 <br />
 <br />
@@ -284,7 +317,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Back in the browser, in the bottom section the SQL username is root (make sure it is not capitalized), and the password is wahtever you set it up to be, and than make the database name "osTicket". You can now finally press that "Install now" Button.
 </p>
 <br />
 <br />
@@ -293,24 +326,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-<br />
+We just need to do some finishing touches, navigate to the folder "C:\inetpub\wwwroot\osTicket" and delete the "setup" folder.
+  <p>
+  ![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/df2d7ac0-513a-4bec-8ab9-078774d98e6a)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Then in "C:\inetpub\wwwroot\osTicket\include", set the permissions in ost-config.php to "read only". Press OK and you are now done with the initial installation!
+  </p>
 </p>
 <br />
