@@ -24,7 +24,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/2ae6efa5-f53a-4e71-9fe9-2bcb8b47d84c)
+
 </p>
 <p>
 Open up Azure and creat a Virtual Machine, this will automatically create the resource group along with it so do not worry about that.
@@ -33,7 +34,8 @@ For this tutorial, we will be going with Windows 10, make sure to select that an
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/aad04f9e-3f43-483f-bfcb-6fda8865b08a)
+
 </p>
 <p>
 Next, when asked for sizes, aim to get one with 2 vcpu's and atleast 4 GiB of memory, this will make sure that the Virtual machine runs smoothly and efficently.
