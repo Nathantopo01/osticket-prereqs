@@ -24,7 +24,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/2ae6efa5-f53a-4e71-9fe9-2bcb8b47d84c)
+https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/2ae6efa5-f53a-4e71-9fe9-2bcb8b47d84c
 
 </p>
 <p>
@@ -34,7 +34,7 @@ For this tutorial, we will be going with Windows 10, make sure to select that an
 <br />
 
 <p>
-![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/aad04f9e-3f43-483f-bfcb-6fda8865b08a)
+[image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/aad04f9e-3f43-483f-bfcb-6fda8865b08a)
 
 </p>
 <p>
