@@ -305,7 +305,7 @@ With the new program open, click new and put in the username and password you pu
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
 In the program, right click "Unnamed" and than "create new" "database", and name it "osTicket".
@@ -314,7 +314,7 @@ In the program, right click "Unnamed" and than "create new" "database", and name
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
 Back in the browser, in the bottom section the SQL username is root (make sure it is not capitalized), and the password is wahtever you set it up to be, and than make the database name "osTicket". You can now finally press that "Install now" Button.
@@ -323,7 +323,6 @@ Back in the browser, in the bottom section the SQL username is root (make sure i
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 We just need to do some finishing touches, navigate to the folder "C:\inetpub\wwwroot\osTicket" and delete the "setup" folder.
