@@ -86,46 +86,62 @@ Press yes on the next pop-up window.
 <br />
 
 <br />
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+You can say no to all of the options and than press accept and move onto the next step.
+<p>
+FOR THIS NEXT PART MAKE SURE YOU ARE IN THE VIRTUAL MACHINE!
+</p>
+
+<br />
+
+<br />
+<p>
+![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/ce3e8d0e-71d9-4b1d-b547-ebfc1fd4b196)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Open up this link in the virtual machine, as this will provide us with all of the nesecarry program materials needed to properly set up osticket. (credit to Josh Madakor)
+<p>
+https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
+</p>
 </p>
 <br />
 
 <br />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/b8353fe8-538d-47fd-b95d-95a44760a116)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+First, download and instal IIS (Internet Information Services), in order to do this, go to the Control panel and than to Programs and then to "Turn Windows featers on or off".
 </p>
 <br />
 
 <br />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/e9133a64-f91f-45a4-bbf8-f8b319033afd)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Navigate to Internet Information Services in the pop-up, check the box, expand that and than expand "World Wide Web Services" and then expand "Application Development Features", check CGI and
+then collapse "Application Development Features" and then expand "Common HTTP Features" to checkmark all that is in that dropdown. Press OK. Allow it time to then install the IIS features and than you can close the window.
+  <p>
+To test that it works real fast, go into the browser and type in the IP "127.0.0.1", if a webpage loads, than it worked perfectly.
+  </p>
 </p>
 <br />
+![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/071a718f-9608-49c3-8909-b3039bd70e03)
 
 <br />
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+From the google drive link, download and install "php 7.3.8 ZIP FOLDER".
+<p>
+<p>
+When we extract the filed from this folder, we will be making a new folder in the C: drive named "PHP" and we will be extracting it all to there. 
 </p>
-<br />
 
-<br />
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
