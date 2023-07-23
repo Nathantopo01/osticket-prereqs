@@ -145,3 +145,98 @@ When we extract the filed from this folder, we will be making a new folder in th
 </p>
 </p>
 <br />
+
+<p>
+![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/d513bf2f-4a9b-4ca0-818a-e48df4712566)
+
+</p>
+<p>
+Next, download and instal PHP Manager and Rewrite Module.
+<p>
+Do the same with "VC redist".
+</p>
+</p>
+<br />
+
+<p>
+![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/6d1c3151-8e30-47b6-b39e-c76c73f6a33a)
+
+</p>
+<p>
+Next on the list is the "mysql-5.5.62", while installing it, make sure to do a Typical Setup, after installed, Launch the Configuration Wizard and do a Standard Configuration, when asked for a password
+you can use the same generic password you used earlier to keep everything consistent. (Note that you should NEVER do this with any buisness model.) 
+</p>
+<br />
+<br />
+
+<p>
+![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/c425f9b2-134e-422f-a653-8ebd46191da7)
+
+</p>
+<p>
+Once that is installed and good to go, at the bottom left of the desktop, type in IIS, right click the program and "Run as administrator".
+</p>
+<br />
+<br />
+
+<p>
+![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/e16f6cbe-569c-4343-9aae-35f0f8b66389)
+![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/e0faecf5-4e6b-4158-9e8d-2e8e9cbc1406)
+
+</p>
+<p>
+Double click PHP Manager and click "Register new PHP version", once you do this, navigate to the previous PHP Folder we extracted that zip folder into and selece the "php-cgi" application.
+</p>
+<br />
+<br />
+
+<p>
+![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/c3138526-cd8a-44dc-92a7-d6399e515548)
+
+</p>
+<p>
+Back to the google drive, download "osTicket". Open up two seperate file explorer windows, with the first one go into the osTicket zip file and keep it open seeing the folders "script" and "upload". On the second file explorer navigate to "C:\inetpub\wwwroot" and drag the upload folder into it. This process will take a moment.
+</p>
+<br />
+<br />
+
+<p>
+![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/792c0e84-44b0-450e-829f-d534f5aeed82)
+
+</p>
+<p>
+VERY IMPORTANT, once the upload folder is done going into the wwwroot, RENAME THE "upload" FOLDER TO "osTicket".
+</p>
+<p>
+![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/a3d8e771-ddf4-40bd-945f-4d43ea951a7e)
+
+Restart IIS.
+</p>
+<br />
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
