@@ -25,7 +25,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-![image]https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/2ae6efa5-f53a-4e71-9fe9-2bcb8b47d84c
+<a href="https://imgur.com/xX5ax4x"><img src="https://i.imgur.com/xX5ax4x.png" title="source: imgur.com" /></a>
 </p>
 <p>
 Open up Azure and creat a Virtual Machine, this will automatically create the resource group along with it so do not worry about that.
@@ -34,7 +34,7 @@ For this tutorial, we will be going with Windows 10, make sure to select that an
 <br />
 
 <p>
-![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/aad04f9e-3f43-483f-bfcb-6fda8865b08a)
+<a href="https://imgur.com/SWMaJ0I"><img src="https://i.imgur.com/SWMaJ0I.png" title="source: imgur.com" /></a>
 </p>
 <p>
 Next, when asked for sizes, aim to get one with 2 vcpu's and atleast 4 GiB of memory, this will make sure that the Virtual machine runs smoothly and efficently.
@@ -43,7 +43,7 @@ At the same time, for the Username and Password, you can create some generic one
 <br />
 
 <p>
-![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/8d1d0e74-dd97-4189-811c-2d931b75689e)
+<a href="https://imgur.com/6kOjo3R"><img src="https://i.imgur.com/6kOjo3R.png" title="source: imgur.com" /></a>
 
 </p>
 <p>
@@ -54,7 +54,7 @@ This may take a minute or two to finish so just wait a moment.
 
 <br />
 <p>
-![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/4f160788-dc5b-4dde-b43b-04615d432bee)
+<a href="https://imgur.com/QYSsNza"><img src="https://i.imgur.com/QYSsNza.png" title="source: imgur.com" /></a>
 
 </p>
 <p>
@@ -64,7 +64,7 @@ Once it is done creating the virtual machine, navigate to it either through the 
 
 <br />
 <p>
-![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/2b5070f9-d1f0-47d0-badc-5bb51ea71d42)
+<a href="https://imgur.com/C4p9ws4"><img src="https://i.imgur.com/C4p9ws4.png" title="source: imgur.com" /></a>
 
 </p>
 <p>
@@ -75,7 +75,7 @@ Here, you are going to click on the Virtual machine you just made and than grab 
 
 <br />
 <p>
-![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/bde1fa55-0145-4e38-837f-0989e692fd1b)
+<a href="https://imgur.com/2cIpbCy"><img src="https://i.imgur.com/2cIpbCy.png" title="source: imgur.com" /></a>
 
 </p>
 <p>
@@ -97,7 +97,7 @@ FOR THIS NEXT PART MAKE SURE YOU ARE IN THE VIRTUAL MACHINE!
 
 <br />
 <p>
-![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/ce3e8d0e-71d9-4b1d-b547-ebfc1fd4b196)
+<a href="https://imgur.com/NHUCzE8"><img src="https://i.imgur.com/NHUCzE8.png" title="source: imgur.com" /></a>
 
 </p>
 <p>
@@ -110,7 +110,7 @@ https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 
 <br />
 <p>
-![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/b8353fe8-538d-47fd-b95d-95a44760a116)
+<a href="https://imgur.com/AMUSaAa"><img src="https://i.imgur.com/AMUSaAa.png" title="source: imgur.com" /></a>
 
 </p>
 <p>
@@ -120,7 +120,7 @@ First, download and instal IIS (Internet Information Services), in order to do t
 
 <br />
 <p>
-![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/e9133a64-f91f-45a4-bbf8-f8b319033afd)
+<a href="https://imgur.com/oIzfpHy"><img src="https://i.imgur.com/oIzfpHy.png" title="source: imgur.com" /></a>
 
 </p>
 <p>
@@ -131,7 +131,7 @@ To test that it works real fast, go into the browser and type in the IP "127.0.0
   </p>
 </p>
 <br />
-![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/071a718f-9608-49c3-8909-b3039bd70e03)
+<a href="https://imgur.com/yjA1xLM"><img src="https://i.imgur.com/yjA1xLM.png" title="source: imgur.com" /></a>
 
 <br />
 </p>
@@ -147,7 +147,7 @@ When we extract the filed from this folder, we will be making a new folder in th
 <br />
 
 <p>
-![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/d513bf2f-4a9b-4ca0-818a-e48df4712566)
+<a href="https://imgur.com/8zEQoH2"><img src="https://i.imgur.com/8zEQoH2.png" title="source: imgur.com" /></a>
 
 </p>
 <p>
@@ -159,7 +159,7 @@ Do the same with "VC redist".
 <br />
 
 <p>
-![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/6d1c3151-8e30-47b6-b39e-c76c73f6a33a)
+<a href="https://imgur.com/9h0HTCg"><img src="https://i.imgur.com/9h0HTCg.png" title="source: imgur.com" /></a>
 
 </p>
 <p>
@@ -170,7 +170,7 @@ you can use the same generic password you used earlier to keep everything consis
 <br />
 
 <p>
-![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/c425f9b2-134e-422f-a653-8ebd46191da7)
+<a href="https://imgur.com/J5H5uFV"><img src="https://i.imgur.com/J5H5uFV.png" title="source: imgur.com" /></a>
 
 </p>
 <p>
@@ -180,8 +180,8 @@ Once that is installed and good to go, at the bottom left of the desktop, type i
 <br />
 
 <p>
-![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/e16f6cbe-569c-4343-9aae-35f0f8b66389)
-![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/e0faecf5-4e6b-4158-9e8d-2e8e9cbc1406)
+<a href="https://imgur.com/ZBuBcsV"><img src="https://i.imgur.com/ZBuBcsV.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/VTOCYPb"><img src="https://i.imgur.com/VTOCYPb.png" title="source: imgur.com" /></a>
 
 </p>
 <p>
@@ -191,7 +191,7 @@ Double click PHP Manager and click "Register new PHP version", once you do this,
 <br />
 
 <p>
-![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/c3138526-cd8a-44dc-92a7-d6399e515548)
+<a href="https://imgur.com/iswD4su"><img src="https://i.imgur.com/iswD4su.png" title="source: imgur.com" /></a>
 
 </p>
 <p>
@@ -201,14 +201,14 @@ Back to the google drive, download "osTicket". Open up two seperate file explore
 <br />
 
 <p>
-![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/792c0e84-44b0-450e-829f-d534f5aeed82)
+<a href="https://imgur.com/71Jhytz"><img src="https://i.imgur.com/71Jhytz.png" title="source: imgur.com" /></a>
 
 </p>
 <p>
 VERY IMPORTANT, once the upload folder is done going into the wwwroot, RENAME THE "upload" FOLDER TO "osTicket".
 </p>
 <p>
-![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/a3d8e771-ddf4-40bd-945f-4d43ea951a7e)
+<a href="https://imgur.com/NyA0KdI"><img src="https://i.imgur.com/NyA0KdI.png" title="source: imgur.com" /></a>
 
 Restart IIS.
 </p>
@@ -216,7 +216,7 @@ Restart IIS.
 <br />
 
 <p>
-![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/f17da7ea-d853-4289-ac46-0f7aee0f813c)
+<a href="https://imgur.com/Evv04nq"><img src="https://i.imgur.com/Evv04nq.png" title="source: imgur.com" /></a>
 
 </p>
 <p>
@@ -226,7 +226,7 @@ Inside of ISS, on the left bar, go to Sites, Default Web Site, osTicket, and tha
 <br />
 
 <p>
-![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/5ecef1a2-8861-4836-ad55-2967d9a7116b)
+<a href="https://imgur.com/sXg10fx"><img src="https://i.imgur.com/sXg10fx.png" title="source: imgur.com" /></a>
 
 </p>
 <p>
@@ -236,7 +236,7 @@ Some extensions will still have an X on them, to fix them we need to enable them
 <br />
 
 <p>
-![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/de22c419-cfab-4250-81a9-b197a521e9db)
+<a href="https://imgur.com/gY8XxFF"><img src="https://i.imgur.com/gY8XxFF.png" title="source: imgur.com" /></a>
 
 </p>
 <p>
@@ -253,7 +253,7 @@ Go back to the osTicket in the browser and refresh the page to see that the X ar
 <br />
 
 <p>
-![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/f1f91883-c0b4-4c43-b8ea-d4f48cbd00d3)
+<a href="https://imgur.com/RtfAuj1"><img src="https://i.imgur.com/RtfAuj1.png" title="source: imgur.com" /></a>
 
 </p>
 <p>
@@ -269,7 +269,7 @@ Right click the file, go to properties, security, and than advanced and disable 
 <br />
 
 <p>
-![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/d761a926-e4d8-4167-bf75-cfc61db0efd9)
+<a href="https://imgur.com/gk75APQ"><img src="https://i.imgur.com/gk75APQ.png" title="source: imgur.com" /></a>
 
 </p>
 <p>
@@ -279,7 +279,7 @@ Click on Principal, type "everyone" in the box, press ok, and then enable all of
 <br />
 
 <p>
-![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/4533d8f1-ed58-4871-83d7-7c82026e02af)
+<a href="https://imgur.com/zxuOJN7"><img src="https://i.imgur.com/zxuOJN7.png" title="source: imgur.com" /></a>
 
 </p>
 <p>
@@ -295,7 +295,7 @@ Go back to the google drive to download and install "HeidiSQL". You will be inst
 <br />
 
 <p>
-![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/2217cb50-89cb-4266-8acc-52f44e42521f)
+<a href="https://imgur.com/ZH0UX2k"><img src="https://i.imgur.com/ZH0UX2k.png" title="source: imgur.com" /></a>
 
 </p>
 <p>
@@ -327,7 +327,7 @@ Back in the browser, in the bottom section the SQL username is root (make sure i
 <p>
 We just need to do some finishing touches, navigate to the folder "C:\inetpub\wwwroot\osTicket" and delete the "setup" folder.
   <p>
-  ![image](https://github.com/Nathantopo01/osticket-prereqs/assets/140284822/df2d7ac0-513a-4bec-8ab9-078774d98e6a)
+<a href="https://imgur.com/5DTGr45"><img src="https://i.imgur.com/5DTGr45.png" title="source: imgur.com" /></a>
 
 Then in "C:\inetpub\wwwroot\osTicket\include", set the permissions in ost-config.php to "read only". Press OK and you are now done with the initial installation!
 <p>
